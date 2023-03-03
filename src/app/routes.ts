@@ -3,7 +3,9 @@ import { AppComponent } from './app.component';
 
 export const routes: Route[] = [
   {
+    title: 'Home',
     path: '',
-    component: AppComponent
+    pathMatch: 'full',
+    loadComponent: () => import('./app.component').then(m => m.AppComponent)
   }
 ]
