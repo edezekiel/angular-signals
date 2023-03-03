@@ -1,3 +1,5 @@
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/edezekiel/angular-signals?file=README.md)
+
 # AngularSignals
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0-next.2.
